@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/oscar/FoodTruck-WebApp/app/page.tsx"],"sourcesContent":["import { redirect } from \"next/navigation\";\n\n// Root redirects to the Explore screen for now\n// Will be replaced by the Landing / Home screen in the next step\nexport default function RootPage() {\n  redirect(\"/explore\");\n}\n"],"names":["RootPage"],"mappings":";;;;AAAA;AAAA;;AAIe,SAASA;IACtB,IAAA,iMAAQ,EAAC;AACX"}}]
+}
